@@ -13,7 +13,7 @@ class Default extends StatelessWidget {
           width: sizeX,
           child: Center(
               child: Text(
-            'No Time ',
+            'coming soon ',
             style: TextStyle(
               fontSize: 40,
             ),
