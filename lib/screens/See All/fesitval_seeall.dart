@@ -148,11 +148,17 @@ class See_All_Festival_list extends StatelessWidget {
                                                             )),
                                                       ],
                                                     ),
+                                                    SizedBox(
+                                                      height: 50,
+                                                    )
                                                   ],
                                                 ),
                                               )
                                             ],
                                           ),
+                                        ),
+                                        SizedBox(
+                                          height: 50,
                                         )
                                       ])),
                             );
